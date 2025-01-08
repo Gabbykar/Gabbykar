@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Create VMs in Azure](https://github.com/Gabbykar/configure-ad)
   - [Create Remote Desktop](https://github.com/Gabbykar/azure-network-protocols)
-  - [Doing Activities Using Remote Desktop](https://github.com/Gabbykar/using-and-observing-traffic-with-vpn)
+  - [Doing Activities Using Remote Desktop](https://github.com/Gabbykar/using-and-observing-traffic-with-vpn-using-Remote-desktop)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Gabbykar/osticket-prereqs)
