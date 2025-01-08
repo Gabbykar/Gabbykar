@@ -11,7 +11,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Gabbykar/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Gabbykar/post-install-config)
-  - [osTicket: Create And Working Tickets](https://github.com/Gabbykar/ticket-lifecycle)
+  - [osTicket: Create And Work Tickets](https://github.com/Gabbykar/ticket-lifecycle)
 
 - <b>Virtual Private Network</b>
   - [Setup VPN](https://github.com/Gabbykar/configure-ad)
