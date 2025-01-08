@@ -14,7 +14,7 @@
   - [osTicket: Create And Work Tickets](https://github.com/Gabbykar/osticket-creating-and-work-tickets)
 
 - <b>Virtual Private Network</b>
-  - [Setup VPN](https://github.com/Gabbykar/configure-ad)
+  - [Setup VPN](https://github.com/Gabbykar/setup-vpn)
   - [Using and Observing Traffic with VPN](https://github.com/Gabbykar/azure-network-protocols)    
 
 
