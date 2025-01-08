@@ -15,7 +15,7 @@
 
 - <b>Virtual Private Network</b>
   - [Setup VPN](https://github.com/Gabbykar/setup-vpn)
-  - [Using and Observing Traffic with VPN](https://github.com/Gabbykar/azure-network-protocols)    
+  - [Using and Observing Traffic with VPN](https://github.com/Gabbykar/using-and-observing-traffic-with-vpn)    
 
 
 <h2>🤳Connect with me:</h2>
