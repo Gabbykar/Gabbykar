@@ -2,14 +2,16 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Gabbykar/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Gabbykar/post-install-config)
-  - [osTicket: Create And Work Tickets](https://github.com/Gabbykar/osticket-creating-and-work-tickets)
 
 - <b>Virtual Private Network</b>
   - [Setup VPN](https://github.com/Gabbykar/setup-vpn)
   - [Using and Observing Traffic with VPN](https://github.com/Gabbykar/using-and-observing-traffic-with-vpn)    
+
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Gabbykar/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Gabbykar/post-install-config)
+  - [osTicket: Create And Work Tickets](https://github.com/Gabbykar/osticket-creating-and-work-tickets)
 
 
 <h2>🤳Connect with me:</h2>
